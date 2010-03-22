@@ -1,0 +1,4 @@
+# robots.txt for http://www.optionshift.com/
+# updated 07 November 2000
+
+User-agent: *
