@@ -1,4 +1,5 @@
-# robots.txt for http://www.optionshift.com/
-# updated 07 November 2000
+# robots.txt
+# optionshift.com
+# updated 11 August 2018
 
 User-agent: *
