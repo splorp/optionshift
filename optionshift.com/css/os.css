@@ -18,16 +18,20 @@ div {
 	}
 
 h1 {
-	font-family: "ronnia-1","ronnia-2",helvetica,arial,sans-serif;
-	font-style: italic;
-	font-size: 5em;
+	font-family: "itc-american-typewriter-n3", "itc-american-typewriter-1", "itc-american-typewriter-2","Courier New",serif;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 6em;
 	letter-spacing: -0.02em;
 	text-shadow: 0 1px 2px #FFF;
 	}
 
 p {
 	color: #033;
-	font: 0.8em "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;
+	font-family: "itc-american-typewriter-n5", "itc-american-typewriter-1", "itc-american-typewriter-2","Courier New",serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 1em;
 	line-height: 1.7em;
 	margin-top: 50px;
 	text-shadow: 0 1px 1px #FFF;
