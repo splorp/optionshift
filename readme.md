@@ -2,6 +2,6 @@
 
 Click, click.
 
-Built with [BBEdit](http://www.barebones.com/products/bbedit/) & ♥
+Built with [BBEdit](https://www.barebones.com/products/bbedit/) & ♥
 
-[optionshift.com](http://optionshift.com/)
+[optionshift.com](https://optionshift.com/)
